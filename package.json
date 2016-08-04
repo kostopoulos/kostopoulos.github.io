@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "deploy": "gh-pages -d build"
+  },
+  "dependencies": {
+    "webpack": "^1.13.1"
+  }
+}
