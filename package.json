@@ -2,11 +2,6 @@
   "scripts": {
     "deploy": "gh-pages -d build"
   },
-  "dependencies": {
-    
-  },
-  "devDependencies": {
-    "gh-pages": "^0.11.0",
-    "webpack": "^1.13.1"
-  }
+  "dependencies": {},
+  "devDependencies": {}
 }
